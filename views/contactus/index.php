@@ -10,7 +10,7 @@
                                 	Avaneh-Soushiant
                                 </strong>
                                 <dl class="adress">
-                                    <dd><span>Address:</span>No. 603, Sarv Tower, Valiasr <span>&nbsp;</span>street, Tehran, Iran</dd>
+                                    <dd><span>Address:</span>No. 14, Alley 19.1, Akbari street, Upper than Beheshti street, Tehran, Iran</dd>
                                     <dd><span>Telephone:</span><b>+98 21 88102627</b></dd>
                                     <dd><span>Fax:</span><b></b></dd>
                                     <dd><span>Email:</span><a href="mailto:alizhian@ymail.com">avaneh@soushiant.com</a></dd>
